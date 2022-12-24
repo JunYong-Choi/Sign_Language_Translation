@@ -10,8 +10,9 @@
 
 - 수어종류
     - 자모음(31개에 대한 한글 자모 지문자)
-
-![%EC%A7%80%EB%AC%B8%EC%9E%90_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg](attachment:%EC%A7%80%EB%AC%B8%EC%9E%90_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg)
+    
+    
+![지문자_이미지](https://user-images.githubusercontent.com/90700892/209419165-fd373820-e70c-4a1b-b2a4-c82439db4c1c.jpg)
 
 출처 : https://www.urimal.org/1222
 
