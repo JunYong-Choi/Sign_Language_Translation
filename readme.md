@@ -22,7 +22,7 @@
 
 - 31개의 자음, 모음에 대한 팀원 3명의 학습영상 촬영
 
-![%ED%8C%80%EC%9B%903%EB%AA%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%83%9D%EC%84%B1.gif](attachment:%ED%8C%80%EC%9B%903%EB%AA%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%83%9D%EC%84%B1.gif)
+![팀원3명데이터생성](https://user-images.githubusercontent.com/90700892/209419274-abda09a1-fd5b-4a8e-b018-2c04209db293.gif)
 
 각각 'ㅎ' , 'ㅏ' , 'ㄱ' 에 대한 data 생성중...
 
@@ -30,7 +30,7 @@
 
 ### ***데이터 전처리***
 
-![hand_landmarks.png](attachment:hand_landmarks.png)
+![hand_landmarks](https://user-images.githubusercontent.com/90700892/209419270-aad3fcde-48b7-40cf-b2f6-a38edeee1e89.png)
 
 출처 : https://google.github.io/mediapipe/solutions/hands.html
 
