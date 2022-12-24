@@ -1,4 +1,9 @@
 ## ***실시간 수어 번역 인식 모듈생성 (with. MediaPipe, LSTM)***
+***
+Team Project
+
+Teaming_최준용, 이태범, 서동혁
+(in Kookmin_University)
 
 ***
 
