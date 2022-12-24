@@ -2,7 +2,7 @@
 ***
 ### Team Project
 
-#### Teaming   ***최준용, 이태범, 서동혁*** (in Kookmin_University)
+#### Teaming   최준용, 이태범, 서동혁 ***(in Kookmin_University)***
 
 ***
 
