@@ -1,1 +1,0 @@
-# Sign_Language_Translation_Recognition
