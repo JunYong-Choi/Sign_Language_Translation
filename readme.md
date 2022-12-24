@@ -63,7 +63,7 @@
 
 #### Using webcam
 
-![KakaoTalk_20221210_214325078.gif](attachment:KakaoTalk_20221210_214325078.gif)
+![KakaoTalk_20221210_214325078](https://user-images.githubusercontent.com/90700892/209419238-00fee2f8-179d-4632-9e84-a1c18cf81b94.gif)
 
 ***
 
